@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=planckbaka&label=Profile%20views&color=0e75b6&style=flat" alt="planckbaka" /> </p>
 
-- 🌱 I’m currently learning **React, Java, Vue, flutter, Spring,nodejs**
+- 🌱 I’m currently learning **React, Rust, Go, flutter, Spring,nodejs**
 
-- 💬 Ask me about **Python, C++,**
+- 💬 Ask me about **Python, Go,JavaScript,**
 
 - 📫 How to reach me **akiwayne24@gmail.com**
 
