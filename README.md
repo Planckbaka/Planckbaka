@@ -2,7 +2,7 @@
 
 > Backend Engineer specializing in high-performance **Go/Python Cloud Services** and **AI Systems Engineering**. Practicing Clean Architecture and Domain-Driven Design (DDD) to bridge high-throughput server systems with next-generation AI agent runtimes.
 
-[Planck's Space (Blog)](https://blog-pearl-iota-29.vercel.app/)  •  [akiwayne24@gmail.com](mailto:akiwayne24@gmail.com)  •  Shanghai, China
+[Planck's Space (Blog)](https://high-end-portfolio.1229773363.workers.dev/)  •  [akiwayne24@gmail.com](mailto:akiwayne24@gmail.com)  •  Shanghai, China
 
 <hr style="border:0; border-top:1px solid #eaecef; margin: 24px 0;" />
 
@@ -44,7 +44,7 @@
 </ul>
 
 <h3>✍️ Personal Space & Blog</h3>
-<p><strong><a href="https://blog-pearl-iota-29.vercel.app/" target="_blank">Planck's Space</a></strong></p>
+<p><strong><a href="https://high-end-portfolio.1229773363.workers.dev/" target="_blank">Planck's Space</a></strong></p>
 <p>My digital garden and landing page. I share high-density technical deep-dives covering systems performance tuning, Go concurrency models, Kubernetes networking, and practical Agent engineering.</p>
 </td>
 </tr>
